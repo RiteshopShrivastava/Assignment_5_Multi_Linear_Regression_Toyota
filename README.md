@@ -1,6 +1,6 @@
 # Assignment_5_Multi_linear_regression_Toyota
 
-For Toyota data set
+For ToyotaCrolla data set
 
 Consider only the below columns and prepare a prediction model for predicting Price.
 
